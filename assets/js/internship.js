@@ -17,7 +17,7 @@ const research = [
         conferences : "The 58th Annual Meeting of the Association for Computational Linguistics",
         researchYr : 2020,
         citebox : "#popup1",
-        image : "/assets/images/research-page/inteferenceNetwork.png"
+        image : "assets/images/research-page/inteferenceNetwork.png"
     }
     // },
 

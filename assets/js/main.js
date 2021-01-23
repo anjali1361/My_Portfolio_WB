@@ -29,7 +29,7 @@ function topFunction() {
 let header = $(`
 <nav class="black">
 <div class="nav-wrapper">
-    <a href="#!" class="brand-logo"><img src="/assets/images/web_image.png" ></a>
+    <a href="#!" class="brand-logo"><img src="assets/images/web_image.png" ></a>
     <!--hamburger icon -->
     <a href="#" data-target="mobile-demo" class="white-text sidenav-trigger"><i
             class="material-icons">menu</i></a>
@@ -97,7 +97,7 @@ let footer = $(`
       <div class="col-lg-7 col-md-6 pt-3" >
       <div class="col-sm-6 col-md-7">
         <a class="webintern-footer-logo" href="#">
-          <center><img src="/assets/images/web_image.png"style="width: 220px;"/></center>
+          <center><img src="assets/images/web_image.png"style="width: 220px;"/></center>
         </a>
         <div class="simple-text text-center dark padding-sm">
           <p >

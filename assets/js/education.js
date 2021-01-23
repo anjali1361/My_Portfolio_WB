@@ -6,62 +6,62 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Android",
-    cardImage: "/assets/images/education-page/android-min.jpg",
+    cardImage: "assets/images/education-page/android-min.jpg",
     moocLink: "https://github.com/anjali1361/Destination_App_Using_Local_API",
   },
   {
     title: "Rest API",
-    cardImage: "/assets/images/education-page/api-services-min.png",
+    cardImage: "assets/images/education-page/api-services-min.png",
     moocLink: "https://github.com/anjali1361/API",
   },
   {
     title: "Firebase",
-    cardImage: "/assets/images/education-page/firebase-firestore-min.png",
+    cardImage: "assets/images/education-page/firebase-firestore-min.png",
     moocLink: "https://github.com/anjali1361/Bit-Network",
   },
   {
     title: "Express",
-    cardImage: "/assets/images/education-page/express-min.jpg",
+    cardImage: "assets/images/education-page/express-min.jpg",
     moocLink: "https://github.com/anjali1361/pass-management-system",
   },
   {
     title: "Database",
-    cardImage: "/assets/images/education-page/mongo-min.png",
+    cardImage: "assets/images/education-page/mongo-min.png",
     moocLink: "https://github.com/anjali1361/Dance-Website-Pug",
   },
   {
     title: "Python",
-    cardImage: "/assets/images/education-page/python.jpeg",
+    cardImage: "assets/images/education-page/python.jpeg",
     moocLink: "https://github.com/anjali1361/ChatBot",
   },
   {
     title: "Web",
-    cardImage: "/assets/images/education-page/web_services1-min.png",
+    cardImage: "assets/images/education-page/web_services1-min.png",
     moocLink: "https://github.com/anjali1361/Web-Chat",
   },
   {
     title: "HTTP",
-    cardImage: "/assets/images/education-page/http-min.png",
+    cardImage: "assets/images/education-page/http-min.png",
     moocLink: "https://github.com/anjali1361/employee-management-system",
   },
   {
     title: "SQL",
-    cardImage: "/assets/images/education-page/database-min.jpg",
+    cardImage: "assets/images/education-page/database-min.jpg",
     moocLink: "https://github.com/anjali1361/SQLite-App",
   },
   {
     title: "Cloud Messaging",
-    cardImage: "/assets/images/education-page/cloud-messaging-min.jpg",
+    cardImage: "assets/images/education-page/cloud-messaging-min.jpg",
     moocLink: "https://github.com/anjali1361/Messenger/",
   },
   {
     title: "NodeJS",
-    cardImage: "/assets/images/education-page/js1-min.png",
+    cardImage: "assets/images/education-page/js1-min.png",
     moocLink: "https://github.com/anjali1361/Passport-registration",
   },
   {
     title: "Storage",
-    cardImage: "/assets/images/education-page/storage-min.jpg",
+    cardImage: "assets/images/education-page/storage-min.jpg",
     moocLink: "https://github.com/anjali1361/BookHub",
   },
 ];
@@ -98,17 +98,17 @@ const bagdes = document.querySelector(".badges");
 const badgesection = [
   {
     title: "Jet Brains Sticker",
-    image: "/assets/images/education-page/jet brains.png",
+    image: "assets/images/education-page/jet brains.png",
     description: "Earned October 20, 2020",
   },
   {
     title: "Hackerrank",
-    image: "/assets/images/education-page/hackerrank.png",
+    image: "assets/images/education-page/hackerrank.png",
     description: "Earned October 20, 2020",
   },
   {
     title: "Github",
-    image: "/assets/images/education-page/github.png",
+    image: "assets/images/education-page/github.png",
     description: "Earned October 20, 2020",
   },
 ];
@@ -135,21 +135,21 @@ const timeline = document.querySelector(".timeline");
 const timelinesection = [
   {
     heading: "Birsa Institute oF Technology",
-    image: "/assets//images/education-page/timeline-1.svg",
+    image: "assets/images/education-page/timeline-1.svg",
     subheading:"Bachelors of Science, Computer Science & Engineering, (2019-2023)",
     description: "<li>Scored 88% in my 1st year</li><li>Best undergraduate Institue</li><li>Opting Chemical Engineering</li><li>Member at HnCC</li>",
   },
 
   {
     heading: "Senior Secondary-XII",
-    image: "/assets//images/education-page/timeline-1.svg",
+    image: "assets/images/education-page/timeline-1.svg",
     subheading:"Student of Science, Computer Science & Mathematics, (2017-2019)",
     description: "<li>Scored 90% in the department</li><li>Saraswati Shishu Mandir,Shyamdih</li><li>A-One Science faculty</li><li>Participated in Science-Fair</li>",
   },
 
   {
     heading: "Secondary-X",
-    image: "/assets//images/education-page/timeline-1.svg",
+    image: "assets/images/education-page/timeline-1.svg",
     subheading:"Student of Science, Computer Science & Mathematics, (2015-2017)",
     description: "<li>Scored 10CGPA in the department</li><li>Saraswati Shishu Mandir,Shyamdih</li><li>A-One Science faculty</li><li>Participated in Science Quizes</li>",
   },

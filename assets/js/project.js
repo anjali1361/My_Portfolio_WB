@@ -4,7 +4,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Chat Bot",
-    cardImage: "/assets/images/project-page/chat_bot.png",
+    cardImage: "assets/images/project-page/chat_bot.png",
     description:
       "Chat-Bot made using ChatterBot & Chatterbot-corpus in python",
     Previewlink: "",
@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: "Leverage A Cloud Database",
-    cardImage: "/assets/images/project-page/authentication.png",
+    cardImage: "assets/images/project-page/authentication.png",
     description:
       "Login and Signup using Passport & MongoDB in Nodejs",
     Previewlink: "",
@@ -20,7 +20,7 @@ const projects = [
   },
   {
     title: "Snake Game",
-    cardImage: "/assets/images/project-page/snake_game.png",
+    cardImage: "assets/images/project-page/snake_game.png",
     description:
       "Snake Game made with pygame and random in python,Watch the demo...",
     Previewlink: "https://github.com/anjali1361/demo_snake_game",
@@ -28,7 +28,7 @@ const projects = [
   },
   {
     title: "Encrypting & Decrypting Password/Images",
-    cardImage: "/assets/images/project-page/encrypt.png",
+    cardImage: "assets/images/project-page/encrypt.png",
     description:
       "Application to Encrypt/Decrypt Password and Images in Java",
     Previewlink: "",
@@ -36,7 +36,7 @@ const projects = [
   },
   {
     title: "Bootstrap",
-    cardImage: "/assets/images/project-page/bootstrap_website.png",
+    cardImage: "assets/images/project-page/bootstrap_website.png",
     description:
       "A website made only with Bootstrap from scratch,Watch the preview...",
     Previewlink: "https://anjali1361.github.io/Bootstrap_Website.github.io/",
@@ -44,7 +44,7 @@ const projects = [
   },
   {
     title: "Dino Game",
-    cardImage: "/assets/images/project-page/dino_preview.png",
+    cardImage: "assets/images/project-page/dino_preview.png",
     description:
       "Save the Dino from the creature,Just play it using the link",
     Previewlink: " https://anjali1361.github.io/dino_game_LHD/",
@@ -52,7 +52,7 @@ const projects = [
   },
   {
     title: "Light Your Kitchen",
-    cardImage: "/assets/images/project-page/light_your_kitchen.png",
+    cardImage: "assets/images/project-page/light_your_kitchen.png",
     description:
       "Web Appliaction havin GPS Map implemented. Check it out at preview...",
     Previewlink: "https://anjali1361.github.io/Light_Your_Kitchen_Website/",
@@ -60,7 +60,7 @@ const projects = [
   },
   {
     title: "Blog App",
-    cardImage: "/assets/images/project-page/blog.png",
+    cardImage: "assets/images/project-page/blog.png",
     description:
       "An Android Alumni Network app made with Firebase",
     Previewlink: "",
@@ -68,7 +68,7 @@ const projects = [
   },
   {
     title: "Collage App",
-    cardImage: "/assets/images/project-page/collage_app.png",
+    cardImage: "assets/images/project-page/collage_app.png",
     description:
       "Project for Hackathon in Android Domain having lots of features implemented, view the demo...",
     Previewlink: "https://youtu.be/7jkJTZ47Ebg",
@@ -76,7 +76,7 @@ const projects = [
   },
   {
     title: "Portfolio Website",
-    cardImage: "/assets/images/project-page/port.png",
+    cardImage: "assets/images/project-page/port.png",
     description:
       "A simple open source code for creating Personel-Portfolio, view it...",
     Previewlink: "https://anjali1361.github.io/",
@@ -84,7 +84,7 @@ const projects = [
   },
   {
     title: "Automate Registration Email",
-    cardImage: "/assets/images/project-page/automate_email.png",
+    cardImage: "assets/images/project-page/automate_email.png",
     description:
       "Automate Email on each users registration for any course made to carry the task for my Internship Program with Mailgun.",
     Previewlink: "",
@@ -92,7 +92,7 @@ const projects = [
   },
   {
     title: "Chat Application",
-    cardImage: "/assets/images/project-page/chat.png",
+    cardImage: "assets/images/project-page/chat.png",
     description:
       "Web-Chat Application made using Socket.io.Have fun and chat with others using the link provided.",
     Previewlink: "https://chat-application-610af.web.app/",
