@@ -147,7 +147,7 @@ let footer = $(`
                   <input type="email" class="form-control" id="email" placeholder="Email">
               </fieldset>
               <fieldset class="form-group text-center">
-                  <textarea name="text" class="form-control" style = "width: 99%;" id="text" placeholder="Message"></textarea>
+                  <textarea name="text" class="form-control" id="text" placeholder="Message"></textarea>
               </fieldset>
               <fieldset class="form-group text-center">
                   <input type="submit" value="Submit" class="send-btn btn btn-lg">
