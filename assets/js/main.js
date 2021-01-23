@@ -40,7 +40,7 @@ let header = $(`
         <li><a class="white-text" href="achievements.html">Achievement</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
         <li><a class="white-text" target="_blank"  href=" https://anjali1361.github.io/my_blog/">Blog</a></li>
-        <li><a class="white-text" href="https://drive.google.com/file/d/1y6cBrYLQeHujuBPlX6AG3ArLNSidGS_2/view" target="_blank">My Resume</a></li>
+        <li><a class="white-text" href="https://drive.google.com/file/d/1Dd0PPo9b7HjrbUh2_krERFEnR4WkQqxk/view" target="_blank">My Resume</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
         <label for="switch" class="theme-switch">
