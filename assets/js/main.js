@@ -39,12 +39,9 @@ let header = $(`
         <li><a class="white-text" href="projects.html">Projects</a></li>
         <li><a class="white-text" href="achievements.html">Achievement</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
-<<<<<<< HEAD
-        <li><a class="white-text" target="_blank"  href="https://anjali1361.github.io/my_blog/">Blog</a></li>
-=======
         <li><a class="white-text" href="https://anjali1361.github.io/my_blog" target="_blank">Blog</a></li>
->>>>>>> 60fe49aef4cacd1ed2805f0371aad11244c01083
         <li><a class="white-text" href="https://drive.google.com/file/d/1Dd0PPo9b7HjrbUh2_krERFEnR4WkQqxk/view?usp=drivesdk" target="_blank">My Resume</a></li>
+        
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
         <label for="switch" class="theme-switch">
@@ -71,11 +68,7 @@ let header = $(`
 <li><a href="projects.html">Projects</a></li>
 <li><a href="achievements.html">Achievement</a></li>
 <li><a href="education.html">Education</a></li>
-<<<<<<< HEAD
 <li><a href="https://anjali1361.github.io/my_blog/">Blog</a></li>
-=======
-<li><a href="https://anjali1361.github.io/my_blog">Blog</a></li>
->>>>>>> 60fe49aef4cacd1ed2805f0371aad11244c01083
 <li><a href="https://drive.google.com/file/d/1Dd0PPo9b7HjrbUh2_krERFEnR4WkQqxk/view?usp=drivesdk" target="_blank">My Resume</a></li>
 
 
