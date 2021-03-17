@@ -87,7 +87,7 @@ const research = [
 
 const cite1 = [{
     Role1 : "Done the paid internship of 3k at Arenyam Technologies(arenyam.com) where I served as a Content Writer and provided examples on Operators and import statements in java language.",
-    Role2: "Also I worked as a Marketer and promoted the session to be conducted for providing industrial exposure of java to the newbies. Made e-flyer, pdf, prepared content and all necessary stuffs were done for the Marketer's job"
+    Role2: "Also I worked as a Marketer and promoted the session to be conducted for providing industrial exposure of java to the newbies. Made e-flyer, pdf, prepared content and all necessary stuffs were done for the Marketer's job."
 }];
 
 const cite2 = [{
@@ -164,10 +164,10 @@ document.addEventListener("DOMContentLoaded", fillData);//"DOMContentLoaded" is 
 const citeData1 = () => {
     let output = "";
     cite1.forEach(
-        ({Role1, bibtex}) =>
+        ({Role1, Role2}) =>
         (output += `
         <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
-                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${Role2}
                     </td></tr>                     
         `)
     );
@@ -178,10 +178,10 @@ document.addEventListener("DOMContentLoaded", citeData1);
 const citeData2 = () => {
     let output = "";
     cite2.forEach(
-        ({Role1, bibtex}) =>
+        ({Role1, Role2}) =>
         (output += `
         <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
-                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${Role2}
                     </td></tr>                     
         `)
     );
@@ -192,10 +192,10 @@ document.addEventListener("DOMContentLoaded", citeData2);
 const citeData3 = () => {
     let output = "";
     cite3.forEach(
-        ({Role1, bibtex}) =>
+        ({Role1, Role2}) =>
         (output += `
         <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
-                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${Role2}
                     </td></tr>                     
         `)
     );
@@ -206,10 +206,10 @@ document.addEventListener("DOMContentLoaded", citeData3);
 const citeData4 = () => {
     let output = "";
     cite4.forEach(
-        ({Role1, bibtex}) =>
+        ({Role1, Role2}) =>
         (output += `
         <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
-                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${Role2}
                     </td></tr>                     
         `)
     );
@@ -220,10 +220,10 @@ document.addEventListener("DOMContentLoaded", citeData4);
 const citeData5 = () => {
     let output = "";
     cite5.forEach(
-        ({Role1, bibtex}) =>
+        ({Role1, Role2}) =>
         (output += `
         <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
-                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${Role2}
                     </td></tr>                     
         `)
     );
@@ -234,10 +234,10 @@ document.addEventListener("DOMContentLoaded", citeData5);
 const citeData6 = () => {
     let output = "";
     cite6.forEach(
-        ({Role1, bibtex}) =>
+        ({Role1, Role2}) =>
         (output += `
         <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
-                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${Role2}
                     </td></tr>                     
         `)
     );
@@ -248,10 +248,10 @@ document.addEventListener("DOMContentLoaded", citeData6);
 const citeData7 = () => {
     let output = "";
     cite7.forEach(
-        ({Role1, bibtex}) =>
+        ({Role1, Role2}) =>
         (output += `
         <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
-                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${Role2}
                     </td></tr>                     
         `)
     );
@@ -262,10 +262,10 @@ document.addEventListener("DOMContentLoaded", citeData7);
 const citeData8 = () => {
     let output = "";
     cite8.forEach(
-        ({Role1, bibtex}) =>
+        ({Role1, Role2}) =>
         (output += `
         <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
-                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${Role2}
                     </td></tr>                     
         `)
     );
