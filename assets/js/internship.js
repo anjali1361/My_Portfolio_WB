@@ -12,10 +12,10 @@ const citeTable8 = document.querySelector(".citeT8");
 
 const research = [
     {
-        title : "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
-        authors : "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
-        conferences : "The 58th Annual Meeting of the Association for Computational Linguistics",
-        researchYr : 2020,
+        title : "Paid internship at Arenyam Technologies",
+        authors : "Contact: arenyam.com, 7798574425",
+        conferences : "Done the role of content developer and marketer there. As a conetnte developer, there I had to provide with java coding examples for a session to be conducted and had to market for it too. The letter of recommendation and certificate will be issued soon.",
+        researchYr : 2021,
         citebox : "#popup1",
         image : "assets/images/research-page/inteferenceNetwork.png"
     }
@@ -86,43 +86,43 @@ const research = [
 ];
 
 const cite1 = [{
-    vancouver : "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
-    bibtex : "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020."
+    Role1 : "Done the paid internship of 3k at Arenyam Technologies(arenyam.com) where I served as a Content Writer and provided examples on Operators and import statements in java language.",
+    Role2: "Also I worked as a Marketer and promoted the session to be conducted for providing industrial exposure of java to the newbies. Made e-flyer, pdf, prepared content and all necessary stuffs were done for the Marketer's job"
 }];
 
 const cite2 = [{
-    vancouver : "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
-    bibtex : "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020."
+    Role1 : "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+    Role2: "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020."
 }];
 
 const cite3 = [{
-    vancouver : "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
-    bibtex : "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020."
+    Role1 : "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+    Role2: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020."
 }];
 
 const cite4 = [{
-    vancouver : "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
-    bibtex : "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020."
+    Role1 : "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+    Role2: "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020."
 }];
 
 const cite5 = [{
-    vancouver : "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    bibtex : "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020."
+    Role1 : "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+    Role2: "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020."
 }];
 
 const cite6 = [{
-    vancouver : "Zhang, Kai and Van Gool, Luc and Timofte, Radu. Deep Unfolding Network for Image Super-Resolution. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    bibtex : "Zhang, Kai and Van Gool, Luc and Timofte, Radu. Deep Unfolding Network for Image Super-Resolution. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020."
+    Role1 : "Zhang, Kai and Van Gool, Luc and Timofte, Radu. Deep Unfolding Network for Image Super-Resolution. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+    Role2: "Zhang, Kai and Van Gool, Luc and Timofte, Radu. Deep Unfolding Network for Image Super-Resolution. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020."
 }];
 
 const cite7 = [{
-    vancouver : "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    bibtex : "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020."
+    Role1 : "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+    Role2: "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020."
 }];
 
 const cite8 = [{
-    vancouver : "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
-    bibtex : "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020."
+    Role1 : "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+    Role2: "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020."
 }];
     
 const fillData = () => {
@@ -164,10 +164,10 @@ document.addEventListener("DOMContentLoaded", fillData);//"DOMContentLoaded" is 
 const citeData1 = () => {
     let output = "";
     cite1.forEach(
-        ({vancouver, bibtex}) =>
+        ({Role1, bibtex}) =>
         (output += `
-        <tr> <td class="left-cell"> Vancouver </td> <td class="right-cell">${vancouver} </td></tr>
-                    <tr> <td class="left-cell"> BibTeX </td> <td class="right-cell"> ${bibtex}
+        <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
                     </td></tr>                     
         `)
     );
@@ -178,10 +178,10 @@ document.addEventListener("DOMContentLoaded", citeData1);
 const citeData2 = () => {
     let output = "";
     cite2.forEach(
-        ({vancouver, bibtex}) =>
+        ({Role1, bibtex}) =>
         (output += `
-        <tr> <td class="left-cell"> Vancouver </td> <td class="right-cell">${vancouver} </td></tr>
-                    <tr> <td class="left-cell"> BibTeX </td> <td class="right-cell"> ${bibtex}
+        <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
                     </td></tr>                     
         `)
     );
@@ -192,10 +192,10 @@ document.addEventListener("DOMContentLoaded", citeData2);
 const citeData3 = () => {
     let output = "";
     cite3.forEach(
-        ({vancouver, bibtex}) =>
+        ({Role1, bibtex}) =>
         (output += `
-        <tr> <td class="left-cell"> Vancouver </td> <td class="right-cell">${vancouver} </td></tr>
-                    <tr> <td class="left-cell"> BibTeX </td> <td class="right-cell"> ${bibtex}
+        <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
                     </td></tr>                     
         `)
     );
@@ -206,10 +206,10 @@ document.addEventListener("DOMContentLoaded", citeData3);
 const citeData4 = () => {
     let output = "";
     cite4.forEach(
-        ({vancouver, bibtex}) =>
+        ({Role1, bibtex}) =>
         (output += `
-        <tr> <td class="left-cell"> Vancouver </td> <td class="right-cell">${vancouver} </td></tr>
-                    <tr> <td class="left-cell"> BibTeX </td> <td class="right-cell"> ${bibtex}
+        <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
                     </td></tr>                     
         `)
     );
@@ -220,10 +220,10 @@ document.addEventListener("DOMContentLoaded", citeData4);
 const citeData5 = () => {
     let output = "";
     cite5.forEach(
-        ({vancouver, bibtex}) =>
+        ({Role1, bibtex}) =>
         (output += `
-        <tr> <td class="left-cell"> Vancouver </td> <td class="right-cell">${vancouver} </td></tr>
-                    <tr> <td class="left-cell"> BibTeX </td> <td class="right-cell"> ${bibtex}
+        <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
                     </td></tr>                     
         `)
     );
@@ -234,10 +234,10 @@ document.addEventListener("DOMContentLoaded", citeData5);
 const citeData6 = () => {
     let output = "";
     cite6.forEach(
-        ({vancouver, bibtex}) =>
+        ({Role1, bibtex}) =>
         (output += `
-        <tr> <td class="left-cell"> Vancouver </td> <td class="right-cell">${vancouver} </td></tr>
-                    <tr> <td class="left-cell"> BibTeX </td> <td class="right-cell"> ${bibtex}
+        <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
                     </td></tr>                     
         `)
     );
@@ -248,10 +248,10 @@ document.addEventListener("DOMContentLoaded", citeData6);
 const citeData7 = () => {
     let output = "";
     cite7.forEach(
-        ({vancouver, bibtex}) =>
+        ({Role1, bibtex}) =>
         (output += `
-        <tr> <td class="left-cell"> Vancouver </td> <td class="right-cell">${vancouver} </td></tr>
-                    <tr> <td class="left-cell"> BibTeX </td> <td class="right-cell"> ${bibtex}
+        <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
                     </td></tr>                     
         `)
     );
@@ -262,10 +262,10 @@ document.addEventListener("DOMContentLoaded", citeData7);
 const citeData8 = () => {
     let output = "";
     cite8.forEach(
-        ({vancouver, bibtex}) =>
+        ({Role1, bibtex}) =>
         (output += `
-        <tr> <td class="left-cell"> Vancouver </td> <td class="right-cell">${vancouver} </td></tr>
-                    <tr> <td class="left-cell"> BibTeX </td> <td class="right-cell"> ${bibtex}
+        <tr> <td class="left-cell"> Role1 </td> <td class="right-cell">${Role1} </td></tr>
+                    <tr> <td class="left-cell"> Role2</td> <td class="right-cell"> ${bibtex}
                     </td></tr>                     
         `)
     );
