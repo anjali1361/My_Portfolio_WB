@@ -14,7 +14,7 @@ const research = [
     {
         title : "Paid internship at Arenyam Technologies",
         authors : "Contact: arenyam.com, 7798574425",
-        conferences : "Done the role of content developer and marketer there. As a conetnte developer, there I had to provide with java coding examples for a session to be conducted and had to market for it too. The letter of recommendation and certificate will be issued soon.",
+        conferences : "A paid intern at Arenyam Technology worked as a Content Writer and a Marketer, writing and marketing for the java course that is going to be offered by the company to the college students in the period 25/01/2021-25/02/2021. The letter of recommendation and certificate will be issued soon.",
         researchYr : 2021,
         citebox : "#popup1",
         image : "assets/images/research-page/inteferenceNetwork.png"
@@ -86,8 +86,8 @@ const research = [
 ];
 
 const cite1 = [{
-    Role1 : "Done the paid internship of 3k at Arenyam Technologies(arenyam.com) where I served as a Content Writer and provided examples on Operators and import statements in java language.",
-    Role2: "Also I worked as a Marketer and promoted the session to be conducted for providing industrial exposure of java to the newbies. Made e-flyer, pdf, prepared content and all necessary stuffs were done for the Marketer's job."
+    Role1 : "A paid intern at Arenyam Technology worked as a Content Writer, writing and developing contents for the java course that is going to be offered by the company to the college students in the period 25/01/2021-25/02/2021.",
+    Role2: "Also I worked as a Marketer and promoted the session. Made e-flyer, pdf, prepared content and all necessary stuffs were done for the Marketer's job."
 }];
 
 const cite2 = [{
