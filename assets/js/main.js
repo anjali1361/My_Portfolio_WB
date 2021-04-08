@@ -40,7 +40,7 @@ let header = $(`
         <li><a class="white-text" href="achievements.html">Achievement</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
         <li><a class="white-text" href="https://anjali1361.github.io/my_blog" target="">Blog</a></li>
-        <li><a class="white-text" href="https://drive.google.com/file/d/1Y9ivM_G8pSL8wQan0NH6UHqtpBPQYN6O/view?usp=sharing" target="_blank">My Resume</a></li>
+        <li><a class="white-text" href="https://drive.google.com/file/d/1X5iEm4UF-7xA8-Ts4jDkUHT9Sfb5U5qN/view?usp=sharing" target="_blank">My Resume</a></li>
         
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
@@ -69,7 +69,7 @@ let header = $(`
 <li><a href="achievements.html">Achievement</a></li>
 <li><a href="education.html">Education</a></li>
 <li><a href="https://anjali1361.github.io/my_blog/" target="_blank">Blog</a></li>
-<li><a href="https://drive.google.com/file/d/1Y9ivM_G8pSL8wQan0NH6UHqtpBPQYN6O/view?usp=sharing" target="_blank">My Resume</a></li>
+<li><a href="https://drive.google.com/file/d/1X5iEm4UF-7xA8-Ts4jDkUHT9Sfb5U5qN/view?usp=sharing" target="_blank">My Resume</a></li>
 
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
