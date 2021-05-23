@@ -18,17 +18,17 @@ const research = [
         researchYr : 2021,
         citebox : "#popup1",
         image : "assets/images/research-page/inteferenceNetwork.png"
-    }
-    // },
+    },
+   
 
-    // {
-    //     title : "A Call for More Rigor in Unsupervised Cross-lingual Learning",
-    //     authors : "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre",
-    //     conferences : "The 58th Annual Meeting of the Association for Computational Linguistics",
-    //     researchYr : 2020,
-    //     citebox : "#popup2",
-    //     image : "images/research-page/crossLingual.png"
-    // },
+    {
+        title : "A paid intern at VESTIBULUM TECHNOLOGIES PRIVATE LIMITED",
+        authors : "SARIPALLI SRINIVASAN SAIVENKATA",
+        conferences : "Currently working on Speech Enabled Camera App using CameraX Android API with encryption technique implemented to hide the crucial data. One can use this feature by setting up a 5-digit authentication code.",
+        researchYr : 2021,
+        citebox : "#popup2",
+        image : "assets/images/research-page/inteferenceNetwork.png"
+    },
 
     // {
     //     title : "A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks",
@@ -87,12 +87,12 @@ const research = [
 
 const cite1 = [{
     Role1 : "A paid intern at Arenyam Technology worked as a Content Writer, writing and developing contents for the java course that is going to be offered by the company to the college students in the period 25/01/2021-25/02/2021.",
-    Role2: "Also I worked as a Marketer and promoted the session. Made e-flyer, pdf, prepared content and all necessary stuffs were done for the Marketer's job."
+    Role2:  "Also I worked as a Marketer and promoted the session. Made e-flyer, pdf, prepared content and all necessary stuffs were done for the Marketer's job."
 }];
 
 const cite2 = [{
-    Role1 : "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
-    Role2: "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020."
+    Role1 : "Currently working on Speech Enabled Camera App with encryption technique implemented to hide the crucial data. One can use this feature by setting up a 5-digit authentication code.",
+    Role2:  "Apart from it, working to implement Login/Signup UI using JetPack Compose inculcating features like Strong Password Verification, Email Verification, Recaptcha Verification."
 }];
 
 const cite3 = [{

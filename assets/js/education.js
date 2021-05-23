@@ -137,7 +137,7 @@ const timelinesection = [
     heading: "Birsa Institute oF Technology",
     image: "assets/images/education-page/timeline-1.svg",
     subheading:"Bachelors Chemical Engineering, (2019-2023)",
-    description: "<li>Scored 88% in my 1st year</li><li>Best undergraduate Institue</li><li>Member at HnCC</li><li>Organised various events there like workshops, webinars & hackathons</li>",
+    description: "<li>Scored 9.08 Aggregate CGPA till now</li><li>Best undergraduate Institue</li><li>Member at HnCC</li><li>Organised various events there like workshops, webinars & hackathons</li>",
   },
 
   {
