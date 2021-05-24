@@ -21,14 +21,14 @@ const research = [
     },
    
 
-    {
-        title : "A paid intern at VESTIBULUM TECHNOLOGIES PRIVATE LIMITED",
-        authors : "SARIPALLI SRINIVASAN SAIVENKATA",
-        conferences : "Currently working on Speech Enabled Camera App using CameraX Android API with encryption technique implemented to hide the crucial data. One can use this feature by setting up a 5-digit authentication code.",
-        researchYr : 2021,
-        citebox : "#popup2",
-        image : "assets/images/research-page/inteferenceNetwork.png"
-    },
+    // {
+    //     title : "A paid intern at BITSAI International",
+    //     authors : "SARIPALLI SRINIVASAN SAIVENKATA",
+    //     conferences : "Currently working on Speech Enabled Camera App using CameraX Android API with encryption technique implemented to hide the crucial data. One can use this feature by setting up a 5-digit authentication code.",
+    //     researchYr : 2021,
+    //     citebox : "#popup2",
+    //     image : "assets/images/research-page/inteferenceNetwork.png"
+    // },
 
     // {
     //     title : "A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks",
