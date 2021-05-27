@@ -22,8 +22,22 @@ const exp = [
     cardImage: "assets/images/achievements-page/local_hack_day.png",
     place: "MLH",
     time: "(Jan-19 to Jan-20 ,2021)",
-    desp:"<li>Wrked in group of three and had presented Haks in Dmains including:- Android, Web, AI, ML, Graphics, Gaming.</li><li>A week long Hackathon where we had given challenges on daily as well as weekly basis.</li><li>Snake Game using pygame,Web Dino Game, Automate Birthday Wish, Chat-Bot with ChatterBot & Chatterbot-corpus, ML with Teachable Machine and many more</li>",
+    desp:"<li>Worked in group of three and had presented Haks in Dmains including:- Android, Web, AI, ML, Graphics, Gaming.</li><li>A week long Hackathon where we had given challenges on daily as well as weekly basis.</li><li>Snake Game using pygame,Web Dino Game, Automate Birthday Wish, Chat-Bot with ChatterBot & Chatterbot-corpus, ML with Teachable Machine and many more</li>",
   },
+  {
+    title: "geeksforgeeks Student Chapter",
+    cardImage: "assets/images/achievements-page/geeksforgeeks_core_team.jpeg",
+    place: "BIT SINDRI",
+    time: "(may-19, 2021 - present)",
+    desp:"<li> Event Organizer - Organizes insightful events for students and try to provide the best hospitality possible, to the speakers and the attendees</li><li>Marketing Head - Target to spread awareness regarding the upcoming technologies and the upcoming events and communicate and invite learned speakers for educational sessions. Work to collaborate with other chapters for major events.</li>",
+  },
+  // {
+  //   title: "CodeChef Student Chapter",
+  //   cardImage: "assets/images/achievements-page/local_hack_day.png",
+  //   place: "MLH",
+  //   time: "(july-19, 2020 to present)",
+  //   desp:"<li>Organize monthly coding competitions via CodeChef Platform,  as CodeChef's Official Chapter BIT Sindri. </li>",
+  // },
 ];
 
 const showCards2 = () => {
@@ -77,7 +91,7 @@ const volunteershipcards = [
     title: "Internshala Android Training",
     cardImage: "assets/images/achievements-page/app-1.png",
     description:
-      "Certificate of recognition for scoring 69% in the final test of Android App Development Trainings with Kotlin.",
+      "Scored 69% in the final test of Android App Development Trainings with Kotlin.",
   },
   {
     title: "AICTE Java Course",
@@ -86,16 +100,16 @@ const volunteershipcards = [
       "Certificate for Performing well in Training from 361DM.",
   },
   {
-    title: "Digital Marketing With Iternshala",
-    cardImage: "assets/images/achievements-page/Digital-Marketing-1.png",
+    title: "GDSC",
+    cardImage: "assets/images/achievements-page/30-_days_DSC.png",
     description:
-      "Certificate to score 75% in the final test offered by Internshala.",
+      "Certificate of excellence for submitting all the projects at 30-days web dev program powered by Skillenza",
   },
   {
-    title: "DSA at Udemy",
-    cardImage: "assets/images/achievements-page/Ms-excel-1.png",
+    title: "11-weeks workshop, geeksforgeeks",
+    cardImage: "assets/images/achievements-page/geekforgeeks_11weeks_dsa_algo_certification-1.png",
     description:
-      "Certificate for succesfully complting the DS-Algo training at Udemy.",
+      "For Successful submission of all the assignments given during the program",
   },
 ];
 
@@ -104,7 +118,7 @@ const showCards = () => {
   volunteershipcards.forEach(
     ({ title, cardImage, description }) =>
       (output += `        
-      <div class="card volunteerCard" style="background-image: url(${cardImage});background-repeat: no-repeat, repeat; background-size: cover; background-position: center; width="64" height="300"">
+      <div class="card volunteerCard" style="background-image: url(${cardImage});background-repeat: no-repeat; background-size: cover; background-position: center">
       <div class="content">
           <h2 class="volunteerTitle">${title}</h2>
           <p class="copy">${description}</p></div>

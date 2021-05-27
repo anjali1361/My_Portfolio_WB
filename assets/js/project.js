@@ -27,7 +27,7 @@ const projects = [
     Githublink: "https://github.com/anjali1361/Snake-Game",
   },
   {
-    title: "Encrypting & Decrypting Password/Images",
+    title: "Encrypting & Decrypting Images",
     cardImage: "assets/images/project-page/encrypt.png",
     description:
       "Application to Encrypt/Decrypt Password and Images in Java",

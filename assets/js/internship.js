@@ -14,21 +14,21 @@ const research = [
     {
         title : "Paid internship at Arenyam Technologies",
         authors : "Contact: arenyam.com, 7798574425",
-        conferences : "A paid intern at Arenyam Technology worked as a Content Writer and a Marketer, writing and marketing for the java course that is going to be offered by the company to the college students in the period 25/01/2021-25/02/2021. The letter of recommendation and certificate will be issued soon.",
+        conferences : "A paid intern at Arenyam Technology worked as a Tech Content Writer and a Marketer, writing and marketing for the java course that is going to be offered by the company to the college students in the period 25/01/2021-25/02/2021. The letter of recommendation and certificate will be issued soon.",
         researchYr : 2021,
         citebox : "#popup1",
         image : "assets/images/research-page/inteferenceNetwork.png"
     },
    
 
-    // {
-    //     title : "A paid intern at BITSAI International",
-    //     authors : "SARIPALLI SRINIVASAN SAIVENKATA",
-    //     conferences : "Currently working on Speech Enabled Camera App using CameraX Android API with encryption technique implemented to hide the crucial data. One can use this feature by setting up a 5-digit authentication code.",
-    //     researchYr : 2021,
-    //     citebox : "#popup2",
-    //     image : "assets/images/research-page/inteferenceNetwork.png"
-    // },
+    {
+        title : "A paid intern at BITSAI International",
+        authors : "Alumni association group of BIT Sindri",
+        conferences : "The internship opportunity offered by the Alumni Association Group of BIT Sindri, selected 25 Interns out of more than 100 applicants at our campus and I am the one. The interns are expected to connect to the Alumni all over the world and bring them to a common platform via interaction with them using the latest technological trend, also have to prepare the presentation that reveals synthesis of accomplishments related to the program standards that would be judged by the authorized alumni under which an intern is working.",
+        researchYr : 2021,
+        citebox : "#popup2",
+        image : "assets/images/research-page/inteferenceNetwork.png"
+    },
 
     // {
     //     title : "A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks",
@@ -91,8 +91,8 @@ const cite1 = [{
 }];
 
 const cite2 = [{
-    Role1 : "Currently working on Speech Enabled Camera App with encryption technique implemented to hide the crucial data. One can use this feature by setting up a 5-digit authentication code.",
-    Role2:  "Apart from it, working to implement Login/Signup UI using JetPack Compose inculcating features like Strong Password Verification, Email Verification, Recaptcha Verification."
+    Role1 : "The internship opportunity offered by the Alumni Association Group of BIT Sindri, selected 25 Interns out of more than 100 applicants at our campus and I am the one. The interns are expected to connect to the Alumni all over the world and bring them to a common platform having interaction with them using the latest technological trend.",
+    Role2:  "Have to prepare the presentation that reveals synthesis of accomplishments related to the program standards that would be judged by the authorized alumni under which an intern is working."
 }];
 
 const cite3 = [{

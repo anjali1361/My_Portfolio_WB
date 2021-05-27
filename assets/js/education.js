@@ -20,6 +20,11 @@ const moocscards = [
     moocLink: "https://github.com/anjali1361/Bit-Network",
   },
   {
+    title: "Flutter",
+    cardImage: "assets/images/education-page/flutter.jpg",
+    moocLink: "https://github.com/anjali1361/Note-Keeper",
+  },
+  {
     title: "Express",
     cardImage: "assets/images/education-page/express-min.jpg",
     moocLink: "https://github.com/anjali1361/pass-management-system",
@@ -30,14 +35,9 @@ const moocscards = [
     moocLink: "https://github.com/anjali1361/Dance-Website-Pug",
   },
   {
-    title: "Python",
-    cardImage: "assets/images/education-page/python.jpeg",
-    moocLink: "https://github.com/anjali1361/ChatBot",
-  },
-  {
-    title: "Web",
-    cardImage: "assets/images/education-page/web_services1-min.png",
-    moocLink: "https://github.com/anjali1361/Web-Chat",
+    title: "AdobeXD",
+    cardImage: "assets/images/education-page/Adobe_XD.png",
+    moocLink: "https://github.com/anjali1361/frontend",
   },
   {
     title: "HTTP",
