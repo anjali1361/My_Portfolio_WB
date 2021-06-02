@@ -17,7 +17,7 @@ const research = [
         conferences : "A paid intern at Arenyam Technology worked as a Tech Content Writer and a Marketer, writing and marketing for the java course that is going to be offered by the company to the college students in the period 25/01/2021-25/02/2021. The letter of recommendation and certificate will be issued soon.",
         researchYr : 2021,
         citebox : "#popup1",
-        image : "assets/images/research-page/inteferenceNetwork.png"
+        image : "assets/images/research-page/Internship Certificate Anjali-1.png"
     },
    
 
