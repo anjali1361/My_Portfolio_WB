@@ -27,7 +27,7 @@ const research = [
         conferences : "The internship opportunity offered by the Alumni Association Group of BIT Sindri, selected 25 Interns out of more than 100 applicants at our campus and I am the one. The interns are expected to connect to the Alumni all over the world and bring them to a common platform via interaction with them using the latest technological trend, also have to prepare the presentation that reveals synthesis of accomplishments related to the program standards that would be judged by the authorized alumni under which an intern is working.",
         researchYr : 2021,
         citebox : "#popup2",
-        image : "assets/images/research-page/inteferenceNetwork.png"
+        image : "assets/images/research-page/BITSAI_International.png"
     },
 
     // {
